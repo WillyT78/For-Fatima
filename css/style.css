@@ -41,7 +41,7 @@ h1{
 /* -MAIN- */
 
 .f{
-  width: 1250px;
+  width: 250px;
   border-radius: 20px;
 
   box-shadow: 0px 0px 30px var(--pink2);
@@ -94,10 +94,11 @@ h1{
 }
 
 .f{
-  width: 100px;
+  width: 125px;
 }
   
 
 }
+
 
 
